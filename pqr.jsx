@@ -2,7 +2,10 @@ import React from 'react'
 
 function pqr() {
   return (
-    <div>pqr</div>
+    <div>pqr
+        helloo navsaarian
+    </div>
+        
   )
 }
 
